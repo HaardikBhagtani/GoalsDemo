@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190244401393",
+    "project_id": "dhiwise-task-fa373",
+    "storage_bucket": "dhiwise-task-fa373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190244401393:android:e2f596edf29899e252b950",
+        "android_client_info": {
+          "package_name": "com.haardikbhagtani.dhiwisetask.dhiwisetask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8omorX0p66J05mPPK3ZX8nCskpO_lKJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
