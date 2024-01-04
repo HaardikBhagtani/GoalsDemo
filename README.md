@@ -38,5 +38,6 @@ Rules are added in the root folder with file name FirebaseSecurityRules.txt
 
 ## Demonstration
 For a visual walkthrough of the app's functionality, refer to the the screenshots in the root directory.
-    
-![Demo Image](https://github.com/HaardikBhagtani/GoalsDemo/blob/main/sample_image.png?raw=true)
+
+<img src="https://github.com/HaardikBhagtani/GoalsDemo/blob/main/sample_image.png?raw=true" width="128"/>
+
